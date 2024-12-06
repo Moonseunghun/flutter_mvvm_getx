@@ -28,7 +28,7 @@ class ChatController extends GetxController {
       _generateAutoReply(message);
     }
   }
-
+//cnlkaclkaclancknlascn
   // 자동 답변 생성 함수
   void _generateAutoReply(String userMessage) {
     // 상대방(봇)으로 전환
